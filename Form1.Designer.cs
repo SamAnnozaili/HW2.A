@@ -313,44 +313,44 @@
             // textBox9
             // 
             this.textBox9.BackColor = System.Drawing.Color.Black;
-            this.textBox9.Enabled = false;
             this.textBox9.Font = new System.Drawing.Font("Manrope", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox9.ForeColor = System.Drawing.Color.White;
             this.textBox9.Location = new System.Drawing.Point(89, 261);
             this.textBox9.Name = "textBox9";
+            this.textBox9.ReadOnly = true;
             this.textBox9.Size = new System.Drawing.Size(124, 33);
             this.textBox9.TabIndex = 25;
             // 
             // textBox10
             // 
             this.textBox10.BackColor = System.Drawing.Color.Black;
-            this.textBox10.Enabled = false;
             this.textBox10.Font = new System.Drawing.Font("Manrope", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox10.ForeColor = System.Drawing.Color.White;
             this.textBox10.Location = new System.Drawing.Point(343, 261);
             this.textBox10.Name = "textBox10";
+            this.textBox10.ReadOnly = true;
             this.textBox10.Size = new System.Drawing.Size(124, 33);
             this.textBox10.TabIndex = 26;
             // 
             // textBox11
             // 
             this.textBox11.BackColor = System.Drawing.Color.Black;
-            this.textBox11.Enabled = false;
             this.textBox11.Font = new System.Drawing.Font("Manrope", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox11.ForeColor = System.Drawing.Color.White;
             this.textBox11.Location = new System.Drawing.Point(596, 261);
             this.textBox11.Name = "textBox11";
+            this.textBox11.ReadOnly = true;
             this.textBox11.Size = new System.Drawing.Size(124, 33);
             this.textBox11.TabIndex = 27;
             // 
             // textBox12
             // 
             this.textBox12.BackColor = System.Drawing.Color.Black;
-            this.textBox12.Enabled = false;
             this.textBox12.Font = new System.Drawing.Font("Manrope", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox12.ForeColor = System.Drawing.Color.White;
             this.textBox12.Location = new System.Drawing.Point(849, 263);
             this.textBox12.Name = "textBox12";
+            this.textBox12.ReadOnly = true;
             this.textBox12.Size = new System.Drawing.Size(124, 33);
             this.textBox12.TabIndex = 28;
             // 
